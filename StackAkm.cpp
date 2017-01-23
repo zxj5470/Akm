@@ -79,6 +79,7 @@ int Akm_3(int m, int n){
 
 int main()
 {
+	int a=0;
 	long a, b;
 	for (int i = 0; i < 20; i++){
 		a = clock();
