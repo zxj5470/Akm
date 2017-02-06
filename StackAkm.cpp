@@ -47,6 +47,7 @@ int Akm_2(int m, int n){
 }
 
 int Akm_3(int m, int n){
+	//ssss
 	int M, N, result, top = -1;
 	int Sm[100000], Sn[100000];
 	Sm[++top] = m;
